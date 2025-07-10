@@ -2,7 +2,7 @@
 
 ## Links
 
-- [🏠 Website](https://saleleads.ai)
-- [🎮 Playground](https://rapidapi.com/saleleadsdotai-saleleadsdotai-default/api/fresh-linkedin-scraper-api)
-- [📃 Documentation](https://docs.saleleads.ai)
-- [🙋‍♂️ Support](https://t.me/saleleads)
+- 🏠 [Website](https://saleleads.ai)
+- 🎮 [Playground](https://rapidapi.com/saleleadsdotai-saleleadsdotai-default/api/fresh-linkedin-scraper-api)
+- 📃 [Documentation](https://docs.saleleads.ai)
+- 🙋‍♂️ [Support](https://t.me/saleleads)
